@@ -27,7 +27,7 @@ Section C track (tick one): \hspace{0.5em} \framebox[1.2em][c]{\rule{0pt}{0.9em}
 
 \vspace{0.3cm}
 
-Fill in one box completely for each question. Questions 1 to 55 are for everyone. For questions 56 to 70 answer either the Python version (56P to 70P) or the R version (56R to 70R), not both, and use rows 56 to 70 below. Only this sheet is marked for the multiple-choice questions.
+Fill in one box completely for each question. Questions 1 to 53 are for everyone. For questions 54 to 67 answer either the Python version (54P to 67P) or the R version (54R to 67R), not both, and use rows 54 to 67 below. Only this sheet is marked for the multiple-choice questions.
 
 \vspace{0.4cm}
 
@@ -48,9 +48,9 @@ Fill in one box completely for each question. Questions 1 to 55 are for everyone
 \makebox[1.7em][r]{\small\textbf{11}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{29}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{47}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{65}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} \\[0.4em]
 \makebox[1.7em][r]{\small\textbf{12}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{30}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{48}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{66}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} \\[0.4em]
 \makebox[1.7em][r]{\small\textbf{13}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{31}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{49}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{67}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} \\[0.4em]
-\makebox[1.7em][r]{\small\textbf{14}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{32}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{50}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{68}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} \\[0.4em]
-\makebox[1.7em][r]{\small\textbf{15}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{33}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{51}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{69}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} \\[0.4em]
-\makebox[1.7em][r]{\small\textbf{16}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{34}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{52}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{70}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} \\[0.4em]
+\makebox[1.7em][r]{\small\textbf{14}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{32}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{50}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} &  \\[0.4em]
+\makebox[1.7em][r]{\small\textbf{15}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{33}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{51}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} &  \\[0.4em]
+\makebox[1.7em][r]{\small\textbf{16}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{34}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{52}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} &  \\[0.4em]
 \makebox[1.7em][r]{\small\textbf{17}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{35}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{53}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} &  \\[0.4em]
 \makebox[1.7em][r]{\small\textbf{18}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{36}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} & \makebox[1.7em][r]{\small\textbf{54}}\hspace{0.5em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{A}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{B}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{C}}\hspace{0.25em}\framebox[1.55em][c]{\rule[-0.35em]{0pt}{1.35em}\scriptsize\textcolor{black!45}{D}} &  \\[0.4em]
 \end{tabular}
@@ -59,459 +59,443 @@ Fill in one box completely for each question. Questions 1 to 55 are for everyone
 
 \newpage
 
-# Section A: everyone (questions 1 to 45)
+# Section A: everyone (questions 1 to 43)
 
 These questions are about Git and GitHub, GitHub Actions, Quarto [@quarto], ggplot2 [@ggplot2], tinytable [@tinytable], working with data, and the Donaldson paper in @Alexander2023.
 
 \needspace{7\baselineskip}
 **1.** Which statement is correct?
 
-(A) Git is version control software on your laptop; GitHub is a website that hosts Git repositories
+(A) GitHub is the software on your laptop; Git is the website where the repositories are hosted
 (B) Git only works while you are connected to GitHub, because the history is stored on the website
 (C) Git and GitHub are two names for the same thing; the software was renamed when Microsoft bought it
-(D) GitHub is the software on your laptop; Git is the website where the repositories are hosted
+(D) Git is version control software on your laptop; GitHub is a website that hosts Git repositories
 
 \needspace{7\baselineskip}
 **2.** You changed `paper.qmd` and `notes.txt`, but only want the changes to `paper.qmd` in the next snapshot. What do you run first?
 
-(A) `git push`
-(B) `git add paper.qmd`
-(C) `git commit -m "Update paper"`
-(D) `git add .`
+(A) `git add paper.qmd`
+(B) `git push`
+(C) `git add .`
+(D) `git commit -m "Update paper"`
 
 \needspace{7\baselineskip}
 **3.** In which order do you run these to get your local changes onto GitHub?
 
-(A) add, push, commit
-(B) add, commit, push
-(C) push, add, commit
-(D) commit, add, push
+(A) commit, add, push
+(B) add, push, commit
+(C) add, commit, push
+(D) push, add, commit
 
 \needspace{7\baselineskip}
 **4.** Which commit message will be most useful to you in three weeks?
 
 (A) "Fixed the problem from yesterday"
 (B) "Made some more changes to paper.qmd"
-(C) "Add histogram of occupancy rate to data section"
-(D) "Update graph, fix typos, add data, rewrite intro, change references"
+(C) "Update graph, fix typos, add data, rewrite intro, change references"
+(D) "Add histogram of occupancy rate to data section"
 
 \needspace{7\baselineskip}
 **5.** What does the Donaldson paper rubric ask for with respect to commits?
 
-(A) At least a handful of commits, with meaningful messages
-(B) A commit every time a file is saved
-(C) Commit messages that begin with the date
-(D) One commit when the paper is finished, so that the history is clean
+(A) One commit when the paper is finished, so that the history is clean
+(B) Commit messages that begin with the date
+(C) A commit every time a file is saved
+(D) At least a handful of commits, with meaningful messages
 
 \needspace{7\baselineskip}
 **6.** `git push` fails because "the remote contains work that you do not have locally". What should you do next?
 
-(A) `git push --force`, so that your version wins
-(B) Delete your local copy, clone again, and redo your changes by hand
+(A) `git pull`, deal with any conflicts, then push again
+(B) `git push --force`, so that your version wins
 (C) Make a new branch and push that instead, leaving `main` as it is
-(D) `git pull`, deal with any conflicts, then push again
+(D) Delete your local copy, clone again, and redo your changes by hand
 
 \needspace{7\baselineskip}
 **7.** After a pull you find `<<<<<<< HEAD`, `=======`, and `>>>>>>>` inside `paper.qmd`. What has happened, and what do you do?
 
 (A) Two edits to the same lines could not be merged; keep what you want, delete the markers, then add and commit
-(B) Git has already kept the newer of the two versions; delete the markers and commit the file as it is
-(C) The pull is only half finished; run `git pull` again and the markers will be removed for you
+(B) The pull is only half finished; run `git pull` again and the markers will be removed for you
+(C) Git has already kept the newer of the two versions; delete the markers and commit the file as it is
 (D) The file was damaged during the pull; discard it with `git checkout paper.qmd`, and then pull again
 
 \needspace{7\baselineskip}
 **8.** What is a pull request for?
 
-(A) To make a private backup of your branch on GitHub, which only you are able to see
-(B) To report a problem or ask a question about a repository, so the owner can respond
-(C) To download the latest version of a repository; it is GitHub's name for `git pull`
+(A) To download the latest version of a repository; it is GitHub's name for `git pull`
+(B) To make a private backup of your branch on GitHub, which only you are able to see
+(C) To report a problem or ask a question about a repository, so the owner can respond
 (D) To propose changes from a branch or fork, so they can be reviewed before they are merged
 
 \needspace{7\baselineskip}
 **9.** You want to add your group's slides to the class repo, which you do not own. What is the usual route?
 
-(A) Clone the class repo, add the slides, and push to `main`
-(B) Fork the repo, make the change in your fork, then open a pull request
-(C) Open an issue on the class repo and attach the slides
-(D) Download the repo as a zip, add the slides, and upload it as a new repo of your own
+(A) Open an issue on the class repo and attach the slides
+(B) Clone the class repo, add the slides, and push to `main`
+(C) Download the repo as a zip, add the slides, and upload it as a new repo of your own
+(D) Fork the repo, make the change in your fork, then open a pull request
 
 \needspace{7\baselineskip}
 **10.** Which of these belongs in `.gitignore`?
 
-(A) `.env`, containing your API key
-(B) `references.bib`
-(C) `README.md`
-(D) `data/analysis_data.parquet`, which the paper reads
+(A) `references.bib`
+(B) `.env`, containing your API key
+(C) `data/analysis_data.parquet`, which the paper reads
+(D) `README.md`
 
 \needspace{7\baselineskip}
 **11.** Where does a GitHub Actions workflow run?
 
-(A) On your laptop, but only if it is switched on at the scheduled time
-(B) On a computer that GitHub provides, using the Python and packages installed on your laptop
-(C) On your laptop, whenever you push
-(D) On a fresh computer that GitHub provides, when a trigger you specified happens
+(A) On your laptop, whenever you push
+(B) On a fresh computer that GitHub provides, when a trigger you specified happens
+(C) On your laptop, but only if it is switched on at the scheduled time
+(D) On a computer that GitHub provides, using the Python and packages installed on your laptop
 
 \needspace{7\baselineskip}
 **12.** A workflow has `cron: '0 7 * * *'`. When does it run?
 
-(A) On the 7th day of each month
-(B) Every day at 7:00 UTC
+(A) Every 7 minutes
+(B) On the 7th day of each month
 (C) Every day at 7:00 Toronto time
-(D) Every 7 minutes
+(D) Every day at 7:00 UTC
 
 \needspace{7\baselineskip}
 **13.** The Bluesky example needs a password. Where should the password live?
 
 (A) In the script itself, since the repo is private and only collaborators can read the code
-(B) As a repository secret in GitHub's settings, passed to the script as an environment variable
-(C) In a `.env` file that is committed to the repo, so that the workflow is able to load it
+(B) In a `.env` file that is committed to the repo, so that the workflow is able to load it
+(C) As a repository secret in GitHub's settings, passed to the script as an environment variable
 (D) In the workflow YAML file, since only people with write access are able to edit that
 
 \needspace{7\baselineskip}
 **14.** Your scheduled workflow ran and the script succeeded, but no new data file appeared in the repo. What is the most likely cause?
 
-(A) Workflow permissions are read-only, so the workflow could not commit the file back
+(A) Scheduled workflows can read data, but they are not allowed to create new files
 (B) The file was saved to your laptop, because that is where the script was written
-(C) Scheduled workflows can read data, but they are not allowed to create new files
-(D) The cron expression is in UTC, so the file will only appear on the following day
+(C) The cron expression is in UTC, so the file will only appear on the following day
+(D) Workflow permissions are read-only, so the workflow could not commit the file back
 
 \needspace{7\baselineskip}
 **15.** A `.qmd` file has three kinds of content. Which three?
 
-(A) A title, R code, and the rendered PDF
-(B) A YAML header, Markdown prose, and code chunks
-(C) A YAML header, LaTeX, and BibTeX
-(D) An R script, a Python script, and a Markdown file
+(A) A YAML header, Markdown prose, and code chunks
+(B) A YAML header, LaTeX, and BibTeX
+(C) An R script, a Python script, and a Markdown file
+(D) A title, R code, and the rendered PDF
 
 \needspace{7\baselineskip}
 **16.** Your paper renders to PDF. You now want the same content as a web page. What do you change?
 
-(A) The `format` line in the YAML header, from `pdf` to `html`
-(B) Rename `paper.pdf` to `paper.html`
-(C) Make a second `.qmd` with the same content and `format: html`
-(D) Rewrite each code chunk so that it produces HTML
+(A) Make a second `.qmd` with the same content and `format: html`
+(B) Rewrite each code chunk so that it produces HTML
+(C) The `format` line in the YAML header, from `pdf` to `html`
+(D) Rename `paper.pdf` to `paper.html`
 
 \needspace{7\baselineskip}
 **17.** The Donaldson checklist says "No R code or raw output in final PDF". Which chunk options do that for a chunk that makes a graph, while keeping the graph?
 
-(A) `#| echo: false`, `#| warning: false`, `#| message: false`
-(B) `#| eval: false`, `#| warning: false`, `#| message: false`
-(C) `#| output: false`, `#| warning: false`, `#| message: false`
-(D) `#| include: false`, `#| warning: false`, `#| message: false`
+(A) `#| include: false`, `#| warning: false`, `#| message: false`
+(B) `#| output: false`, `#| warning: false`, `#| message: false`
+(C) `#| echo: false`, `#| warning: false`, `#| message: false`
+(D) `#| eval: false`, `#| warning: false`, `#| message: false`
 
 \needspace{7\baselineskip}
 **18.** What does the chunk option `#| eval: false` do?
 
-(A) The code is run but not shown
+(A) The code is run once, and the result is cached
 (B) Neither the code nor its output is shown
-(C) The code is shown, but it is not run
-(D) The code is run once, and the result is cached
+(C) The code is run but not shown
+(D) The code is shown, but it is not run
 
 \needspace{7\baselineskip}
 **19.** You want to write "as shown in Figure 2" and have the number update by itself if figures move. What do you need?
 
-(A) `#| fig-cap:` on the chunk; Quarto then matches "Figure 2" in the text
-(B) `#| label: occupancy` on the chunk, and `@occupancy` in the text
-(C) `#| label: fig-occupancy` on the chunk, and `@fig-occupancy` in the text
+(A) `#| label: fig-occupancy` on the chunk, and `@fig-occupancy` in the text
+(B) `#| fig-cap:` on the chunk; Quarto then matches "Figure 2" in the text
+(C) `#| label: occupancy` on the chunk, and `@occupancy` in the text
 (D) `#| label: fig-occupancy` on the chunk, and `#fig-occupancy` in the text
 
 \needspace{7\baselineskip}
 **20.** Where does a figure's caption come from in a Quarto paper?
 
-(A) The `#| fig-cap:` chunk option
-(B) `labs(title = ...)` in the ggplot
-(C) The `#| label:` chunk option
-(D) `labs(caption = ...)` in the ggplot
+(A) The `#| label:` chunk option
+(B) The `#| fig-cap:` chunk option
+(C) `labs(caption = ...)` in the ggplot
+(D) `labs(title = ...)` in the ggplot
 
 \needspace{7\baselineskip}
 **21.** How do you cite R so that it appears in the reference list?
 
-(A) R is software rather than literature, so it is credited in the README, not the reference list
+(A) Run `citation()` in a chunk, so that its output appears in the paper where R is mentioned
 (B) Add a BibTeX entry to `references.bib`, which the YAML names, and write `@citeR` in the text
-(C) Run `citation()` in a chunk, so that its output appears in the paper where R is mentioned
+(C) R is software rather than literature, so it is credited in the README, not the reference list
 (D) Type "(R Core Team 2025)" in the text, and type the full reference at the end of the paper
 
 \needspace{7\baselineskip}
 **22.** Under the Donaldson rubric, what happens if R (or Python) is not cited?
 
-(A) One mark is lost from the referencing component
-(B) Nothing happens; software does not need to be cited
+(A) Nothing happens; software does not need to be cited
+(B) The paper is returned for correction and resubmission
 (C) The paper gets 0 overall, whatever the rest of it is like
-(D) The paper is returned for correction and resubmission
+(D) One mark is lost from the referencing component
 
 \needspace{7\baselineskip}
 **23.** Which command renders `paper.qmd` from the terminal?
 
-(A) `Rscript paper.qmd`
-(B) `quarto run paper.qmd`
-(C) `quarto compile paper.qmd`
-(D) `quarto render paper.qmd`
+(A) `quarto render paper.qmd`
+(B) `Rscript paper.qmd`
+(C) `quarto run paper.qmd`
+(D) `quarto compile paper.qmd`
 
 \needspace{7\baselineskip}
 **24.** In a Quarto website project, which file holds the site title, the navigation bar, and the output folder?
 
-(A) `index.qmd`
-(B) `styles.css`
-(C) `_quarto.yml`
-(D) `docs/index.html`
+(A) `styles.css`
+(B) `index.qmd`
+(C) `docs/index.html`
+(D) `_quarto.yml`
 
 \needspace{7\baselineskip}
 **25.** Why did we set `output-dir: docs` for the website?
 
-(A) So that visitors to the site cannot see the `.qmd` source files
-(B) Quarto can only render a website into a folder called `docs`
-(C) So that the rendered site is kept out of the repo and is not committed
-(D) GitHub Pages can serve a site from the `/docs` folder of the `main` branch
+(A) GitHub Pages can serve a site from the `/docs` folder of the `main` branch
+(B) So that the rendered site is kept out of the repo and is not committed
+(C) So that visitors to the site cannot see the `.qmd` source files
+(D) Quarto can only render a website into a folder called `docs`
 
 \needspace{7\baselineskip}
 **26.** In `ggplot(daily, aes(x = date, y = service_users))`, what does `aes()` do?
 
-(A) Sets fixed visual properties, such as making every point on the graph blue
-(B) Filters the data down to just the variables that are named inside it
+(A) Filters the data down to just the variables that are named inside it
+(B) Maps variables in the data to visual properties, such as position or colour
 (C) Chooses the type of graph that is drawn, such as points, lines, or bars
-(D) Maps variables in the data to visual properties, such as position or colour
+(D) Sets fixed visual properties, such as making every point on the graph blue
 
 \needspace{7\baselineskip}
 **27.** You have nightly shelter occupancy for a year and want to show how it changed over time. Which geom?
 
-(A) `geom_boxplot()`
-(B) `geom_density()`
-(C) `geom_line()`
+(A) `geom_density()`
+(B) `geom_line()`
+(C) `geom_boxplot()`
 (D) `geom_histogram()`
 
 \needspace{7\baselineskip}
 **28.** What is the difference between `aes(colour = sector)` and `geom_line(colour = "blue")`?
 
 (A) The first gives one colour per sector and a legend; the second makes every line blue
-(B) The first only works if `sector` is numeric; the second works for any type of column
-(C) The second gives one colour per sector and a legend; the first makes every line the same
-(D) Both give one colour per sector; the second just chooses which colour is used first
+(B) Both give one colour per sector; the second just chooses which colour is used first
+(C) The first only works if `sector` is numeric; the second works for any type of column
+(D) The second gives one colour per sector and a legend; the first makes every line the same
 
 \needspace{7\baselineskip}
 **29.** Which operator adds a layer to a ggplot?
 
-(A) `&`
-(B) `|>`
-(C) `+`
-(D) `%>%`
+(A) `+`
+(B) `%>%`
+(C) `|>`
+(D) `&`
 
 \needspace{7\baselineskip}
 **30.** Which function sets the axis labels and the legend title?
 
-(A) `aes()`
-(B) `ggtitle()`
-(C) `theme()`
-(D) `labs()`
+(A) `ggtitle()`
+(B) `labs()`
+(C) `aes()`
+(D) `theme()`
 
 \needspace{7\baselineskip}
-**31.** You want one small panel per sector rather than five lines on one panel. What do you add?
+**31.** What does `tt(latest)` do?
 
-(A) `facet_wrap(~ sector)`
-(B) `group_by(sector)` before the call to `ggplot()`
-(C) `aes(group = sector)`
-(D) `geom_line(sector)`
-
-\needspace{7\baselineskip}
-**32.** The Donaldson paper says "Graphs must show the actual data, or as close to it as possible, not summary statistics." You have 5,000 observations of a numeric variable in five groups. Which graph is best?
-
-(A) A bar chart of the five group means, with error bars
-(B) A table of the five group means and standard deviations
-(C) All 5,000 points by group, jittered and semi-transparent
-(D) A boxplot for each of the five groups, with outliers marked
+(A) Turns the data frame `latest` into a formatted table for PDF, HTML, or Word
+(B) Prints the first rows of the data frame `latest` to the console, like `head()`
+(C) Transposes the data frame `latest`, so that its rows become its columns
+(D) Runs a t-test on each pair of numeric columns in the data frame `latest`
 
 \needspace{7\baselineskip}
-**33.** What does `tt(latest)` do?
+**32.** The rubric says tables should "have an appropriate number of decimal places and use comma separators for thousands". What handles that in tinytable?
 
-(A) Runs a t-test on each pair of numeric columns in the data frame `latest`
-(B) Turns the data frame `latest` into a formatted table for PDF, HTML, or Word
-(C) Prints the first rows of the data frame `latest` to the console, like `head()`
-(D) Transposes the data frame `latest`, so that its rows become its columns
-
-\needspace{7\baselineskip}
-**34.** The rubric says tables should "have an appropriate number of decimal places and use comma separators for thousands". What handles that in tinytable?
-
-(A) `round()` inside `mutate()`; tinytable cannot format numbers
-(B) `options(digits = 2)` at the top of the document
-(C) `format_tt()`, for instance with `digits` and `num_mark_big = ","`
-(D) Converting the numbers to text with the commas typed in
+(A) `options(digits = 2)` at the top of the document
+(B) `round()` inside `mutate()`; tinytable cannot format numbers
+(C) Converting the numbers to text with the commas typed in
+(D) `format_tt()`, for instance with `digits` and `num_mark_big = ","`
 
 \needspace{7\baselineskip}
-**35.** How do you make a table that can be referred to as "Table 1" in the text?
+**33.** How do you make a table that can be referred to as "Table 1" in the text?
 
-(A) `#| label: fig-latest` on the chunk, then `@fig-latest` in the text
-(B) `#| label: tbl-latest` with `#| tbl-cap: "..."` on the chunk, then `@tbl-latest` in the text
-(C) `#| label: tab-latest` with `#| tbl-cap: "..."` on the chunk, then `@tab-latest` in the text
-(D) `#| tbl-cap: "..."` on the chunk, then type "Table 1" in the text
-
-\needspace{7\baselineskip}
-**36.** Which of these is the best way to show an occupancy rate in a table for a general reader?
-
-(A) 0.8235294
-(B) 82.4%
-(C) 8.24e-01
-(D) 82.35294%
+(A) `#| tbl-cap: "..."` on the chunk, then type "Table 1" in the text
+(B) `#| label: tab-latest` with `#| tbl-cap: "..."` on the chunk, then `@tab-latest` in the text
+(C) `#| label: tbl-latest` with `#| tbl-cap: "..."` on the chunk, then `@tbl-latest` in the text
+(D) `#| label: fig-latest` on the chunk, then `@fig-latest` in the text
 
 \needspace{7\baselineskip}
-**37.** Why did we save the shelter data as Parquet rather than CSV?
+**34.** Which of these is the best way to show an occupancy rate in a table for a general reader?
 
-(A) Parquet is the only file format that both Python and R are able to read
-(B) Parquet can be opened and checked in a text editor, which a CSV file cannot be
-(C) Parquet keeps column types (a date stays a date) and the files are much smaller
-(D) A CSV file cannot hold more than about a million rows, and Parquet has no limit
-
-\needspace{7\baselineskip}
-**38.** What is the rule for raw data according to @Wilson2017?
-
-(A) Clean it in place, so that there is only ever one version of the data
-(B) Save it as it arrived, never edit it by hand, and do all cleaning in scripts
-(C) Delete it once the cleaned version exists, to avoid confusion
-(D) Fix obvious errors by hand first, then save that as the raw data
+(A) 82.35294%
+(B) 8.24e-01
+(C) 0.8235294
+(D) 82.4%
 
 \needspace{7\baselineskip}
-**39.** In the Donaldson paper, where should `paper.qmd` get its data from?
+**35.** Why did we save the shelter data as Parquet rather than CSV?
 
-(A) From the saved, cleaned file in the repo that your scripts produced
-(B) From the raw data file, with all of the cleaning done in the paper's chunks
-(C) Directly from the Open Data Toronto server every time it renders, so the data are always current
-(D) From `~/Downloads`, using the full path so there is no ambiguity
+(A) A CSV file cannot hold more than about a million rows, and Parquet has no limit
+(B) Parquet is the only file format that both Python and R are able to read
+(C) Parquet can be opened and checked in a text editor, which a CSV file cannot be
+(D) Parquet keeps column types (a date stays a date) and the files are much smaller
 
 \needspace{7\baselineskip}
-**40.** Why does the simulation script need a seed?
+**36.** What is the rule for raw data according to @Wilson2017?
+
+(A) Save it as it arrived, never edit it by hand, and do all cleaning in scripts
+(B) Clean it in place, so that there is only ever one version of the data
+(C) Fix obvious errors by hand first, then save that as the raw data
+(D) Delete it once the cleaned version exists, to avoid confusion
+
+\needspace{7\baselineskip}
+**37.** In the Donaldson paper, where should `paper.qmd` get its data from?
+
+(A) From the raw data file, with all of the cleaning done in the paper's chunks
+(B) From the saved, cleaned file in the repo that your scripts produced
+(C) From `~/Downloads`, using the full path so there is no ambiguity
+(D) Directly from the Open Data Toronto server every time it renders, so the data are always current
+
+\needspace{7\baselineskip}
+**38.** Why does the simulation script need a seed?
 
 (A) R and Python cannot generate random numbers at all unless a seed has been set
-(B) So the same "random" data are generated each time, and results can be reproduced
-(C) It removes the randomness, so that the simulated data match the real data
-(D) So that each person who runs the script gets a different simulated dataset
+(B) So that each person who runs the script gets a different simulated dataset
+(C) So the same "random" data are generated each time, and results can be reproduced
+(D) It removes the randomness, so that the simulated data match the real data
 
 \needspace{7\baselineskip}
-**41.** Why simulate the dataset before getting the real one?
+**39.** Why simulate the dataset before getting the real one?
 
-(A) Comparing the two datasets is how missing values in the real data are found and filled in
+(A) The simulated data are added to the real data, which increases the sample size for the paper
 (B) It makes you decide what each variable should look like, and gives you data to test code against
 (C) The simulated data are used in the paper instead, if the real data turn out to be too messy
-(D) The simulated data are added to the real data, which increases the sample size for the paper
+(D) Comparing the two datasets is how missing values in the real data are found and filled in
 
 \needspace{7\baselineskip}
-**42.** Which is a useful test for your cleaned shelter dataset?
+**40.** Which is a useful test for your cleaned shelter dataset?
 
-(A) The cleaned dataset has exactly the same number of rows as the raw dataset
+(A) Occupied beds is never negative or above capacity; dates fall in the expected range
 (B) The mean of occupied beds is equal to the mean in the simulated dataset
-(C) The cleaning script ran from start to finish without producing an error message
-(D) Occupied beds is never negative or above capacity; dates fall in the expected range
+(C) The cleaned dataset has exactly the same number of rows as the raw dataset
+(D) The cleaning script ran from start to finish without producing an error message
 
 \needspace{7\baselineskip}
-**43.** Which date format does the Donaldson checklist ask for?
+**41.** Which date format does the Donaldson checklist ask for?
 
-(A) 02.03.26
-(B) 2/3/2026
-(C) 03/02/2026
-(D) 2 March 2026
+(A) 2/3/2026
+(B) 03/02/2026
+(C) 2 March 2026
+(D) 02.03.26
 
 \needspace{7\baselineskip}
-**44.** What must the README of your Donaldson repo include?
+**42.** What must the README of your Donaldson repo include?
 
 (A) A copy of the abstract, so readers need not open the PDF
-(B) A statement of whether LLMs were used and, if so, how
-(C) Your student number and the course code, for marking
+(B) Your student number and the course code, for marking
+(C) A statement of whether LLMs were used and, if so, how
 (D) A list of every R function that the scripts call
 
 \needspace{7\baselineskip}
-**45.** Which of these is NOT acceptable in a Donaldson submission?
+**43.** Which of these is NOT acceptable in a Donaldson submission?
 
-(A) Graphs made with ggplot2 and tables made with tinytable
-(B) A link to the GitHub repo, given in a footnote on page one
-(C) A repo called "Paper 1" whose title page names the course
-(D) An abstract of four sentences, written for a general reader
+(A) An abstract of four sentences, written for a general reader
+(B) A repo called "Paper 1" whose title page names the course
+(C) Graphs made with ggplot2 and tables made with tinytable
+(D) A link to the GitHub repo, given in a footnote on page one
 
 \newpage
 
-# Section B: everyone, statistical learning (questions 46 to 55)
+# Section B: everyone, statistical learning (questions 44 to 53)
 
 These questions are about the ideas in Chapter 2.1 of @James2023, "What is Statistical Learning?".
 
 \needspace{7\baselineskip}
-**46.** In the model $Y = f(X) + \epsilon$, what is $\epsilon$?
+**44.** In the model $Y = f(X) + \epsilon$, what is $\epsilon$?
 
 (A) A random error term, independent of $X$, with mean zero
-(B) Measurement error in $X$, which biases the estimate of $f$
-(C) The gap between the training data and the test data
+(B) The gap between the training data and the test data
+(C) Measurement error in $X$, which biases the estimate of $f$
 (D) The part of $f$ that the chosen method is unable to capture
 
 \needspace{7\baselineskip}
-**47.** What is the difference between reducible and irreducible error?
+**45.** What is the difference between reducible and irreducible error?
 
-(A) Reducible error comes from estimating $f$ imperfectly; irreducible error comes from $\epsilon$, and remains even if $f$ is known
-(B) Reducible error falls as more predictors are measured; irreducible error comes from choosing a model that is too simple
-(C) Reducible error is the error made on the training data; irreducible error is the error made on observations not yet seen
+(A) Reducible error falls as more predictors are measured; irreducible error comes from choosing a model that is too simple
+(B) Reducible error is the error made on the training data; irreducible error is the error made on observations not yet seen
+(C) Reducible error comes from estimating $f$ imperfectly; irreducible error comes from $\epsilon$, and remains even if $f$ is known
 (D) Reducible error comes from $\epsilon$; irreducible error comes from estimating $f$ imperfectly, and remains whatever method is used
 
 \needspace{7\baselineskip}
-**48.** Which of these is a question of inference rather than prediction?
+**46.** Which of these is a question of inference rather than prediction?
 
-(A) How many people will be staying in Toronto's shelters next Tuesday night?
-(B) What occupancy rate should be expected at a new shelter that has 60 beds?
-(C) Which of the city's shelter programs will be over capacity tomorrow night?
-(D) Which characteristics of a shelter are associated with higher occupancy?
-
-\needspace{7\baselineskip}
-**49.** When the goal is prediction, how is the estimate $\hat{f}$ usually treated?
-
-(A) As linear, because only a linear model gives predictions that are valid
-(B) As a black box: its exact form matters little if its predictions are accurate
-(C) As the object of interest: each part of it must have a clear interpretation
-(D) As known in advance, so that it does not depend on the training data
+(A) Which characteristics of a shelter are associated with higher occupancy?
+(B) Which of the city's shelter programs will be over capacity tomorrow night?
+(C) How many people will be staying in Toronto's shelters next Tuesday night?
+(D) What occupancy rate should be expected at a new shelter that has 60 beds?
 
 \needspace{7\baselineskip}
-**50.** What are the two steps of a parametric approach to estimating $f$?
+**47.** When the goal is prediction, how is the estimate $\hat{f}$ usually treated?
+
+(A) As known in advance, so that it does not depend on the training data
+(B) As linear, because only a linear model gives predictions that are valid
+(C) As a black box: its exact form matters little if its predictions are accurate
+(D) As the object of interest: each part of it must have a clear interpretation
+
+\needspace{7\baselineskip}
+**48.** What are the two steps of a parametric approach to estimating $f$?
 
 (A) Split the data into training and test sets, then average the estimates from each
-(B) Estimate $f$ with no assumed form, then summarise that estimate with a few parameters
-(C) Rank the predictors by their correlation with $Y$, then keep the strongest of them
-(D) Assume a functional form for $f$, then use the training data to estimate its parameters
+(B) Rank the predictors by their correlation with $Y$, then keep the strongest of them
+(C) Assume a functional form for $f$, then use the training data to estimate its parameters
+(D) Estimate $f$ with no assumed form, then summarise that estimate with a few parameters
 
 \needspace{7\baselineskip}
-**51.** What is the main disadvantage of a parametric approach?
+**49.** What is the main disadvantage of a parametric approach?
 
-(A) The assumed form may be far from the true $f$, in which case the estimate is poor
-(B) It can be used only when the response is quantitative, and not when it is a category
-(C) The fitted model has no coefficients, so there is nothing that can be interpreted
-(D) A very large number of observations is needed before $f$ is estimated accurately
-
-\needspace{7\baselineskip}
-**52.** What is the trade-off with non-parametric methods?
-
-(A) They need far fewer observations, but can fit only shapes of $f$ that are nearly linear
-(B) They give results that are easier to interpret, but their predictions are less accurate
-(C) They cannot overfit, because they make no assumption at all about the form of $f$
-(D) They can fit many shapes of $f$, but need far more observations to do so accurately
+(A) A very large number of observations is needed before $f$ is estimated accurately
+(B) The assumed form may be far from the true $f$, in which case the estimate is poor
+(C) It can be used only when the response is quantitative, and not when it is a category
+(D) The fitted model has no coefficients, so there is nothing that can be interpreted
 
 \needspace{7\baselineskip}
-**53.** Why might you choose a restrictive method, such as linear regression, over a more flexible one?
+**50.** What is the trade-off with non-parametric methods?
 
-(A) A restrictive method has lower bias, so its estimates are nearer the truth
-(B) When inference is the goal, a restrictive model is much easier to interpret
+(A) They can fit many shapes of $f$, but need far more observations to do so accurately
+(B) They need far fewer observations, but can fit only shapes of $f$ that are nearly linear
+(C) They give results that are easier to interpret, but their predictions are less accurate
+(D) They cannot overfit, because they make no assumption at all about the form of $f$
+
+\needspace{7\baselineskip}
+**51.** Why might you choose a restrictive method, such as linear regression, over a more flexible one?
+
+(A) A flexible method cannot be fitted when there are more than a few predictors
+(B) A restrictive method has lower bias, so its estimates are nearer the truth
 (C) A restrictive method always predicts better on new data than a flexible one
-(D) A flexible method cannot be fitted when there are more than a few predictors
+(D) When inference is the goal, a restrictive model is much easier to interpret
 
 \needspace{7\baselineskip}
-**54.** What distinguishes supervised from unsupervised learning?
+**52.** What distinguishes supervised from unsupervised learning?
 
 (A) In supervised learning the predictors are numeric; in unsupervised learning they are categories
 (B) In supervised learning the method is parametric; in unsupervised learning it is non-parametric
-(C) In supervised learning a person checks each prediction; in unsupervised learning nobody checks
-(D) In supervised learning every observation has a response; in unsupervised learning there is none
+(C) In supervised learning every observation has a response; in unsupervised learning there is none
+(D) In supervised learning a person checks each prediction; in unsupervised learning nobody checks
 
 \needspace{7\baselineskip}
-**55.** Which of these is a classification problem rather than a regression problem?
+**53.** Which of these is a classification problem rather than a regression problem?
 
 (A) Predicting which candidate a survey respondent will vote for
-(B) Predicting how many people will be in shelters tomorrow night
-(C) Predicting a respondent's feeling-thermometer score out of 100
-(D) Predicting the share of the vote that a candidate will receive
+(B) Predicting the share of the vote that a candidate will receive
+(C) Predicting how many people will be in shelters tomorrow night
+(D) Predicting a respondent's feeling-thermometer score out of 100
 
 \newpage
 
-# Section C: choose Python or R (questions 56 to 70)
+# Section C: choose Python or R (questions 54 to 67)
 
 Answer one track only, and tick it on the answer sheet.
 
@@ -520,124 +504,116 @@ Answer one track only, and tick it on the answer sheet.
 These questions use uv [@uv] and polars [@polars].
 
 \needspace{7\baselineskip}
-**56P.** You are starting a new analysis. What does `uv init shelter_usage` create?
+**54P.** You are starting a new analysis. What does `uv init shelter_usage` create?
 
-(A) A folder set up as a Python project, with a `pyproject.toml` to record its packages
-(B) A single installation of Python that all of your projects will then share
+(A) A single installation of Python that all of your projects will then share
+(B) A folder set up as a Python project, with a `pyproject.toml` to record its packages
 (C) An environment with the common data science packages already installed
 (D) A new GitHub repository called `shelter_usage`, linked to a folder on your laptop
 
 \needspace{7\baselineskip}
-**57P.** You need polars for your cleaning script. Which command installs it and records it as a dependency of the project?
+**55P.** You need polars for your cleaning script. Which command installs it and records it as a dependency of the project?
 
 (A) `import polars`
-(B) `pip install polars`
+(B) `uv run polars`
 (C) `uv add polars`
-(D) `uv run polars`
+(D) `pip install polars`
 
 \needspace{7\baselineskip}
-**58P.** What does `uv run 02-download_data.py` do?
+**56P.** What does `uv run 02-download_data.py` do?
 
-(A) Installs the script into the project as a package, so other scripts can import it
+(A) Runs the script, and then adds and commits any files that the script has produced
 (B) Runs the script with whatever Python and packages happen to be installed on the computer
-(C) Runs the script, and then adds and commits any files that the script has produced
+(C) Installs the script into the project as a package, so other scripts can import it
 (D) Runs the script in the project's own environment, creating or updating it first if needed
 
 \needspace{7\baselineskip}
-**59P.** Your repo contains `pyproject.toml` and `uv.lock`. What is `uv.lock` for?
+**57P.** Your repo contains `pyproject.toml` and `uv.lock`. What is `uv.lock` for?
 
-(A) It is a temporary file that uv recreates each run, so it belongs in `.gitignore`
-(B) It stops collaborators from adding or removing packages without your approval
-(C) It records the exact version of every package, so others get the same environment
-(D) It lists the packages you asked for; `pyproject.toml` records the exact versions
-
-\needspace{7\baselineskip}
-**60P.** A collaborator clones your repo. Which single command recreates your environment on their laptop?
-
-(A) `uv sync`
-(B) `uv init`
-(C) `pip install -r requirements.txt`
-(D) `uv lock`
+(A) It stops collaborators from adding or removing packages without your approval
+(B) It lists the packages you asked for; `pyproject.toml` records the exact versions
+(C) It is a temporary file that uv recreates each run, so it belongs in `.gitignore`
+(D) It records the exact version of every package, so others get the same environment
 
 \needspace{7\baselineskip}
-**61P.** Read the file `cleaned_shelter_usage.parquet` into a data frame.
+**58P.** A collaborator clones your repo. Which single command recreates your environment on their laptop?
+
+(A) `uv init`
+(B) `uv sync`
+(C) `uv lock`
+(D) `pip install -r requirements.txt`
+
+\needspace{7\baselineskip}
+**59P.** Read the file `cleaned_shelter_usage.parquet` into a data frame.
 
 (A) `df = pl.read_csv("cleaned_shelter_usage.parquet")`
-(B) `df = open("cleaned_shelter_usage.parquet")`
+(B) `df = pl.read_parquet("cleaned_shelter_usage.parquet")`
 (C) `df = pl.DataFrame("cleaned_shelter_usage.parquet")`
-(D) `df = pl.read_parquet("cleaned_shelter_usage.parquet")`
+(D) `df = open("cleaned_shelter_usage.parquet")`
 
 \needspace{7\baselineskip}
-**62P.** Keep only the columns `date` and `occupied_beds`.
+**60P.** Keep only the columns `date` and `occupied_beds`.
 
 (A) `df.with_columns(["date", "occupied_beds"])`
-(B) `df.select(["date", "occupied_beds"])`
-(C) `df.drop(["date", "occupied_beds"])`
-(D) `df.filter(["date", "occupied_beds"])`
+(B) `df.drop(["date", "occupied_beds"])`
+(C) `df.filter(["date", "occupied_beds"])`
+(D) `df.select(["date", "occupied_beds"])`
 
 \needspace{7\baselineskip}
-**63P.** Keep only the rows where `occupied_beds` is not missing.
+**61P.** Keep only the rows where `occupied_beds` is not missing.
 
-(A) `df.filter(pl.col("occupied_beds") != None)`
-(B) `df.drop("occupied_beds")`
-(C) `df.filter(pl.col("occupied_beds").is_not_null())`
+(A) `df.filter(pl.col("occupied_beds").is_not_null())`
+(B) `df.filter(pl.col("occupied_beds") != None)`
+(C) `df.drop("occupied_beds")`
 (D) `df.select(pl.col("occupied_beds").is_not_null())`
 
 \needspace{7\baselineskip}
-**64P.** Add a column `occupancy_rate`, equal to occupied beds divided by capacity, keeping all the other columns.
+**62P.** Add a column `occupancy_rate`, equal to occupied beds divided by capacity, keeping all the other columns.
 
-(A) `df.with_columns(("occupied_beds" / "capacity").alias("occupancy_rate"))`
+(A) `df["occupancy_rate"] = df["occupied_beds"] / df["capacity"]`
 (B) `df.select((pl.col("occupied_beds") / pl.col("capacity")).alias("occupancy_rate"))`
 (C) `df.with_columns((pl.col("occupied_beds") / pl.col("capacity")).alias("occupancy_rate"))`
-(D) `df["occupancy_rate"] = df["occupied_beds"] / df["capacity"]`
+(D) `df.with_columns(("occupied_beds" / "capacity").alias("occupancy_rate"))`
 
 \needspace{7\baselineskip}
-**65P.** Get the total number of occupied beds on each date.
+**63P.** Get the total number of occupied beds on each date.
 
-(A) `df.group_by("occupied_beds").agg(pl.col("date").sum())`
-(B) `df.group_by("date").agg(pl.col("occupied_beds").sum())`
-(C) `df.select(pl.col("occupied_beds").sum())`
-(D) `df.group_by("date").agg(pl.col("occupied_beds").count())`
-
-\needspace{7\baselineskip}
-**66P.** Rename the column `OCCUPANCY_DATE` to `date`.
-
-(A) `df.rename({"date": "OCCUPANCY_DATE"})`
-(B) `df.select("date")`
-(C) `df.rename({"OCCUPANCY_DATE": "date"})`
-(D) `df.with_columns(pl.col("OCCUPANCY_DATE").alias("date"))`
+(A) `df.group_by("date").agg(pl.col("occupied_beds").count())`
+(B) `df.select(pl.col("occupied_beds").sum())`
+(C) `df.group_by("occupied_beds").agg(pl.col("date").sum())`
+(D) `df.group_by("date").agg(pl.col("occupied_beds").sum())`
 
 \needspace{7\baselineskip}
-**67P.** Make a simulation give the same result every time it is run.
+**64P.** Rename the column `OCCUPANCY_DATE` to `date`.
 
-(A) `rng = np.random.default_rng(seed=853)`
-(B) `rng = np.random.default_rng(seed=None)`
-(C) `rng = np.random.normal(seed=853)`
+(A) `df.rename({"OCCUPANCY_DATE": "date"})`
+(B) `df.with_columns(pl.col("OCCUPANCY_DATE").alias("date"))`
+(C) `df.rename({"date": "OCCUPANCY_DATE"})`
+(D) `df.select("date")`
+
+\needspace{7\baselineskip}
+**65P.** Make a simulation give the same result every time it is run.
+
+(A) `rng = np.random.normal(seed=853)`
+(B) `rng = np.random.default_rng(seed=853)`
+(C) `rng = np.random.default_rng(seed=None)`
 (D) `rng = np.random.default_rng()`
 
 \needspace{7\baselineskip}
-**68P.** Find out how many rows and how many columns the data frame has.
+**66P.** Find out how many rows and how many columns the data frame has.
 
-(A) `df.columns`
-(B) `len(df)`
-(C) `df.describe()`
-(D) `df.shape`
+(A) `df.describe()`
+(B) `df.columns`
+(C) `df.shape`
+(D) `len(df)`
 
 \needspace{7\baselineskip}
-**69P.** The `date` column was read in as text. Why convert it to a date type (for instance with `pl.col("date").str.strptime(pl.Date, "%Y-%m-%d")`) before graphing over time?
+**67P.** The `date` column was read in as text. Why convert it to a date type (for instance with `pl.col("date").str.strptime(pl.Date, "%Y-%m-%d")`) before graphing over time?
 
 (A) Parquet cannot store a text column, so the file could not otherwise be saved
-(B) It makes no difference to the graph; it is only tidier to store dates as dates
-(C) So the axis is ordered and spaced as time, not as alphabetical labels
-(D) ggplot2 cannot put a text column on an axis at all, and gives an error
-
-\needspace{7\baselineskip}
-**70P.** Save the cleaned data frame, as Parquet, for the paper to read.
-
-(A) `df.to_parquet("cleaned.parquet")`
-(B) `df.write_csv("cleaned.parquet")`
-(C) `pl.save(df, "cleaned.parquet")`
-(D) `df.write_parquet("cleaned.parquet")`
+(B) So the axis is ordered and spaced as time, not as alphabetical labels
+(C) ggplot2 cannot put a text column on an axis at all, and gives an error
+(D) It makes no difference to the graph; it is only tidier to store dates as dates
 
 \newpage
 
@@ -646,128 +622,120 @@ These questions use uv [@uv] and polars [@polars].
 These questions use R [@citeR], dplyr [@dplyr], and arrow [@arrow].
 
 \needspace{7\baselineskip}
-**56R.** You open your work as an RStudio Project (`shelter_usage.Rproj`). What does that give you?
+**54R.** You open your work as an RStudio Project (`shelter_usage.Rproj`). What does that give you?
 
-(A) The working directory is the project folder, so relative paths work on any computer
-(B) A single installation of R that all of your projects will then share
+(A) A single installation of R that all of your projects will then share
+(B) The working directory is the project folder, so relative paths work on any computer
 (C) A package library with the common data science packages already installed
 (D) A new GitHub repository called `shelter_usage`, linked to a folder on your laptop
 
 \needspace{7\baselineskip}
-**57R.** You need tinytable for your tables, and have never used it on this computer. Which command installs it?
+**55R.** You need tinytable for your tables, and have never used it on this computer. Which command installs it?
 
 (A) `update.packages("tinytable")`
-(B) `library(tinytable)`
+(B) `require("tinytable")`
 (C) `install.packages("tinytable")`
-(D) `require("tinytable")`
+(D) `library(tinytable)`
 
 \needspace{7\baselineskip}
-**58R.** Before committing, you restart R and run `02-download_data.R` from top to bottom. Why?
+**56R.** Before committing, you restart R and run `02-download_data.R` from top to bottom. Why?
 
-(A) A script only saves its output properly when it is run from a fresh session
+(A) It clears the saved data files, so that the download starts again from nothing
 (B) Restarting R updates your packages, so the script is checked against the newest versions
-(C) It clears the saved data files, so that the download starts again from nothing
+(C) A script only saves its output properly when it is run from a fresh session
 (D) To check the script works on its own, not relying on objects left in your environment
 
 \needspace{7\baselineskip}
-**59R.** The Donaldson rubric says to avoid `setwd("/Users/rohan/Documents/paper")` and hard-coded paths. Why?
+**57R.** The Donaldson rubric says to avoid `setwd("/Users/rohan/Documents/paper")` and hard-coded paths. Why?
 
-(A) `setwd()` changes the working directory permanently, for all of your projects
-(B) `setwd()` is deprecated, and it no longer works in current versions of R and RStudio
-(C) That path exists only on your computer, so the script fails for everyone else
-(D) Reading from an absolute path is much slower than reading from a relative path
-
-\needspace{7\baselineskip}
-**60R.** Which pipe does the Donaldson rubric ask you to use in R?
-
-(A) The base pipe, `|>`
-(B) The magrittr pipe, `%>%`
-(C) The assignment arrow, `->`
-(D) The plus sign, `+`
+(A) `setwd()` is deprecated, and it no longer works in current versions of R and RStudio
+(B) Reading from an absolute path is much slower than reading from a relative path
+(C) `setwd()` changes the working directory permanently, for all of your projects
+(D) That path exists only on your computer, so the script fails for everyone else
 
 \needspace{7\baselineskip}
-**61R.** Read the file `cleaned_shelter_usage.parquet` into a data frame.
+**58R.** Which pipe does the Donaldson rubric ask you to use in R?
+
+(A) The magrittr pipe, `%>%`
+(B) The base pipe, `|>`
+(C) The plus sign, `+`
+(D) The assignment arrow, `->`
+
+\needspace{7\baselineskip}
+**59R.** Read the file `cleaned_shelter_usage.parquet` into a data frame.
 
 (A) `df <- read_csv("cleaned_shelter_usage.parquet")`
-(B) `df <- load("cleaned_shelter_usage.parquet")`
+(B) `df <- read_parquet("cleaned_shelter_usage.parquet")`
 (C) `df <- data.frame("cleaned_shelter_usage.parquet")`
-(D) `df <- read_parquet("cleaned_shelter_usage.parquet")`
+(D) `df <- load("cleaned_shelter_usage.parquet")`
 
 \needspace{7\baselineskip}
-**62R.** Keep only the columns `date` and `occupied_beds`.
+**60R.** Keep only the columns `date` and `occupied_beds`.
 
 (A) `df |> mutate(date, occupied_beds)`
-(B) `df |> select(date, occupied_beds)`
-(C) `df |> select(-date, -occupied_beds)`
-(D) `df |> filter(date, occupied_beds)`
+(B) `df |> select(-date, -occupied_beds)`
+(C) `df |> filter(date, occupied_beds)`
+(D) `df |> select(date, occupied_beds)`
 
 \needspace{7\baselineskip}
-**63R.** Keep only the rows where `occupied_beds` is not missing.
+**61R.** Keep only the rows where `occupied_beds` is not missing.
 
-(A) `df |> filter(occupied_beds != NA)`
-(B) `df |> select(-occupied_beds)`
-(C) `df |> filter(!is.na(occupied_beds))`
+(A) `df |> filter(!is.na(occupied_beds))`
+(B) `df |> filter(occupied_beds != NA)`
+(C) `df |> select(-occupied_beds)`
 (D) `df |> select(!is.na(occupied_beds))`
 
 \needspace{7\baselineskip}
-**64R.** Add a column `occupancy_rate`, equal to occupied beds divided by capacity, keeping all the other columns.
+**62R.** Add a column `occupancy_rate`, equal to occupied beds divided by capacity, keeping all the other columns.
 
-(A) `df$occupancy_rate = occupied_beds / capacity`
+(A) `df |> filter(occupied_beds / capacity)`
 (B) `df |> summarise(occupancy_rate = occupied_beds / capacity)`
 (C) `df |> mutate(occupancy_rate = occupied_beds / capacity)`
-(D) `df |> filter(occupied_beds / capacity)`
+(D) `df$occupancy_rate = occupied_beds / capacity`
 
 \needspace{7\baselineskip}
-**65R.** Get the total number of occupied beds on each date.
+**63R.** Get the total number of occupied beds on each date.
 
-(A) `df |> group_by(occupied_beds) |> summarise(total = sum(date))`
-(B) `df |> group_by(date) |> summarise(total = sum(occupied_beds))`
-(C) `df |> summarise(total = sum(occupied_beds))`
-(D) `df |> group_by(date) |> summarise(total = n())`
-
-\needspace{7\baselineskip}
-**66R.** Rename the column `OCCUPANCY_DATE` to `date`.
-
-(A) `df |> rename(OCCUPANCY_DATE = date)`
-(B) `df |> select(date)`
-(C) `df |> rename(date = OCCUPANCY_DATE)`
-(D) `df |> mutate(date = OCCUPANCY_DATE)`
+(A) `df |> group_by(date) |> summarise(total = n())`
+(B) `df |> summarise(total = sum(occupied_beds))`
+(C) `df |> group_by(occupied_beds) |> summarise(total = sum(date))`
+(D) `df |> group_by(date) |> summarise(total = sum(occupied_beds))`
 
 \needspace{7\baselineskip}
-**67R.** Make a simulation give the same result every time it is run.
+**64R.** Rename the column `OCCUPANCY_DATE` to `date`.
 
-(A) `set.seed(853)`
-(B) `set.seed()`
-(C) `rnorm(853)`
+(A) `df |> rename(date = OCCUPANCY_DATE)`
+(B) `df |> mutate(date = OCCUPANCY_DATE)`
+(C) `df |> rename(OCCUPANCY_DATE = date)`
+(D) `df |> select(date)`
+
+\needspace{7\baselineskip}
+**65R.** Make a simulation give the same result every time it is run.
+
+(A) `rnorm(853)`
+(B) `set.seed(853)`
+(C) `set.seed()`
 (D) `seed <- 853`
 
 \needspace{7\baselineskip}
-**68R.** Find out how many rows and how many columns the data frame has.
+**66R.** Find out how many rows and how many columns the data frame has.
 
-(A) `names(df)`
-(B) `nrow(df)`
-(C) `summary(df)`
-(D) `dim(df)`
+(A) `summary(df)`
+(B) `names(df)`
+(C) `dim(df)`
+(D) `nrow(df)`
 
 \needspace{7\baselineskip}
-**69R.** The `date` column was read in as text. Why convert it to a date type (for instance with `as.Date(date)`) before graphing over time?
+**67R.** The `date` column was read in as text. Why convert it to a date type (for instance with `as.Date(date)`) before graphing over time?
 
 (A) Parquet cannot store a text column, so the file could not otherwise be saved
-(B) It makes no difference to the graph; it is only tidier to store dates as dates
-(C) So the axis is ordered and spaced as time, not as alphabetical labels
-(D) ggplot2 cannot put a text column on an axis at all, and gives an error
-
-\needspace{7\baselineskip}
-**70R.** Save the cleaned data frame, as Parquet, for the paper to read.
-
-(A) `saveRDS(df, "cleaned.parquet")`
-(B) `write_csv(df, "cleaned.parquet")`
-(C) `save(df, "cleaned.parquet")`
-(D) `write_parquet(df, "cleaned.parquet")`
+(B) So the axis is ordered and spaced as time, not as alphabetical labels
+(C) ggplot2 cannot put a text column on an axis at all, and gives an error
+(D) It makes no difference to the graph; it is only tidier to store dates as dates
 
 \newpage
 
-# Section D: short answer (eleven questions)
+# Section D: short answer (twelve questions)
 
 A few sentences each. Write in the space provided.
 
@@ -823,6 +791,11 @@ A few sentences each. Write in the space provided.
 
 \needspace{6cm}
 **S11.** A city analyst has two jobs: (a) forecast how many people will be in the shelter system each night next month, and (b) understand which factors drive occupancy. Using the ideas in Chapter 2.1 of @James2023, say which job is prediction and which is inference, what kind of method you would lean towards for each and why, and what the irreducible error is in (a).
+
+\vspace{5cm}
+
+\needspace{6cm}
+**S12.** What are the advantages of storing a dataset as Parquet rather than CSV, and what are the disadvantages? Give at least two of each.
 
 \vspace{5cm}
 
