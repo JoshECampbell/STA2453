@@ -22,8 +22,7 @@ format:
 - Your Donaldson paper: questions
 
 ::: {.notes}
-- The Donaldson paper is due Monday. Everything today is in service of that.
-- Keep the referee reports; they come back in Week 10.
+- The Donaldson paper is due Monday.
 :::
 
 # How to get better at writing

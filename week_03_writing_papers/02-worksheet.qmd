@@ -9,9 +9,9 @@ bibliography: references.bib
 
 # Draft from results
 
-Below are three sets of results. For each, write a title, a one-paragraph abstract, and a results paragraph. Then pick one and write an introduction.
+Below are two sets of results. Pick one and write a title, a one-paragraph abstract, and a results paragraph (that could fit into the Introduction).
 
-## Result set A: Toronto shelter occupancy
+## Toronto shelter occupancy
 
 Average number of people in Toronto's shelter system each night, by sector, from the City of Toronto's daily shelter overnight occupancy data (Open Data Toronto, 2026).
 
@@ -24,7 +24,7 @@ Average number of people in Toronto's shelter system each night, by sector, from
 | Youth | 741 | 705 |
 | All sectors | 9,217 | 7,640 |
 
-## Result set B: Iris measurements
+## Iris measurements
 
 Means (standard deviations) of four measurements, in centimetres, for 50 flowers of each of three iris species (Anderson, 1935; Fisher, 1936).
 
@@ -34,16 +34,6 @@ Means (standard deviations) of four measurements, in centimetres, for 50 flowers
 | Versicolor | 5.94 (0.52) | 2.77 (0.31) | 4.26 (0.47) | 1.33 (0.20) |
 | Virginica | 6.59 (0.64) | 2.97 (0.32) | 5.55 (0.55) | 2.03 (0.27) |
 
-## Result set C: A simulation
-
-Samples of increasing size were drawn from a standard normal distribution (mean 0, standard deviation 1) with seed 853, and the absolute difference between the sample mean and the population mean recorded (the `hello.py` script from Week 1).
-
-| Sample size | Absolute difference |
-|---:|---:|
-| 10 | 0.230 |
-| 100 | 0.157 |
-| 1,000 | 0.027 |
-| 10,000 | 0.006 |
 
 \newpage
 
