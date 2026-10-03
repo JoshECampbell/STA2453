@@ -1,0 +1,82 @@
+---
+title: "Statistical Learning: Logistic Regression"
+subtitle: "ISLR, Chapter 4.3"
+author: "Josh Campbell · Graham Sayle · Kyle Dong · Gerry Peng"
+date: today
+format: 
+  revealjs:
+    font-size: 14px
+    theme: simple
+    slide-number: true
+    transition: slide
+    chalkboard: false
+    center: true
+    footer: "Statistical Learning — Chapter 4.3"
+---
+
+# Multiple Logistic Regression 
+::: {.notes}
+Now what if we have a binary classification problem and multiple predictors? 
+:::
+## More than one predictor? - No worries! 
+
+::: {style="font-size: 0.7em;"}
+For a binary prediction the formula can be generalized to p predictors by:
+$$
+\log (\frac{p(x)}{1 - p(X))}) = \beta_0 + \beta_1 X_1 + \space ...\space  +\beta_p X_p
+$$
+
+which can be reaarange to: 
+
+$$
+p(X) = \frac{e^{\beta_0 + \beta_1 X_1 + \space ...\space  +\beta_p X_p}}{1 + e^{\beta_0 + \beta_1 X_1 + \space ...\space  +\beta_p X_p}}
+$$
+:::
+
+
+::: {.notes}
+Recalling again that the X's represent the predictors we can use the same maximum likelihood estimation to determine the values for the beta coefficients. 
+:::
+
+
+## Multiple Predictors: Confounding
+
+::: {style="font-size: 0.7em;"}
+
+::: {style="margin-bottom: 2em;"}
+
+*Hypothetical model predicting a Stanley Cup win*
+
+:::
+
+| Predictor | Goals only | Goals + wins |
+|:----------|:----------:|:------------:|
+| Goals scored | Positive | Negative |
+| Regular-season wins | — | Positive |
+
+::: {style="margin-top: 2em;"}
+
+*Entries show coefficient signs.*
+
+:::
+
+::: {style="margin-top: 2em;"}
+
+**Hint:** Holding wins fixed changes what the goals coefficient means.
+
+:::
+
+::: {.notes}
+Suppose we want to comapre two models that predict if a hockey team will win the stanley cup based on either just the number of goals scored or on both the number of goals and the number of wins.  
+
+We might observe that in the single predictor case that a greater number of goals corresponds to a greater probability of winning the stanley cup leading to a positive coefficient. 
+
+But if we look in the two predictor model the number of wins has a positive association with winning the stanley cup but the coefficient for number of goals flips and becomes negative. 
+
+WHY MIGHT THIS BE? -> CLASS TO ANSWER 
+
+If we do some eda we may find that teams goals and wins are correlated and teams who score more tend to win more. When we are just looking at the goals their coefficient captures information about winning more games because of this correlation. But when we add wins to the model the interpretation chnages, we now compare teams with the same number of wins. 
+
+This example is supposed to illustrate how result obtained with one predictor can chnage quite significantly comapred to those with multiple predictors especially when there is correlation. In general we refer to this as confounding and it is an important phenomenon to keep in mind when performing these types of analyses. 
+:::
+

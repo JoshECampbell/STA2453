@@ -1,0 +1,129 @@
+---
+title: "Statistical Learning: Logistic Regression Workshop"
+subtitle: "ISLR 4.3 — Companion Code"
+author: "Josh Campbell · Graham Sayle · Kyle Dong · Gerry Peng"
+date: today
+format:
+  html:
+    toc: true
+    code-fold: false
+    code-tools: true
+execute:
+  warning: false
+  message: false
+---
+
+
+## 4. Multiple Logistic Regression 
+**Simulate Data **
+```{r}
+set.seed(42)  # TO DO (optional): change the seed
+n <- 1000
+
+sim_data <- data.frame(
+  x1 = rnorm(n),
+  x2 = rnorm(n),
+  x3 = rnorm(n)
+)
+
+# x1 and x2 affect the outcome; x3 has no true effect
+true_probability <- with(
+  sim_data,
+  plogis(-0.5 + 1.5*x1 - x2)
+)
+
+sim_data$y <- rbinom(n, size = 1, prob = true_probability)
+
+train_rows <- sample(seq_len(n), size = 700)
+train <- sim_data[train_rows, ]
+test <- sim_data[-train_rows, ]
+
+head(train)
+```
+
+**Choose Predictors: TO DO!!**
+```{r}
+# TO DO: select any combination of "x1", "x2", and "x3"
+predictors <- c("x1", "x2", "x3")
+
+model_formula <- reformulate(predictors, response = "y")
+print(model_formula)
+
+model <- glm(
+  model_formula,
+  data = train,
+  family = binomial()
+)
+
+summary(model)
+```
+
+*Discussion: What is the interpretation of each coefficient?*
+
+**Predict and Evaluate Classifications: TO DO!!**
+```{r}
+# TO DO: try thresholds such as 0.3, 0.5, and 0.7
+threshold <- 0.37
+
+probabilities <- predict(model, newdata = test, type = "response")
+predictions <- as.integer(probabilities >= threshold)
+
+table(
+  Actual = factor(test$y, levels = 0:1),
+  Predicted = factor(predictions, levels = 0:1)
+)
+
+c(
+  accuracy = mean(predictions == test$y),
+  sensitivity = mean(predictions[test$y == 1] == 1),
+  specificity = mean(predictions[test$y == 0] == 0)
+)
+```
+
+**Plot Fitted Probability Curve: TO DO!!**
+```{r}
+#| fig-width: 7
+#| fig-height: 4
+
+# TO DO: choose a predictor included in your fitted model
+plot_predictor <- predictors[1]  # Or "x1", "x2", or "x3"
+
+stopifnot(plot_predictor %in% predictors)
+
+grid <- data.frame(
+  x1 = rep(0, 100),
+  x2 = rep(0, 100),
+  x3 = rep(0, 100)
+)
+grid[[plot_predictor]] <- seq(-3, 3, length.out = 100)
+
+plot(
+  grid[[plot_predictor]],
+  predict(model, newdata = grid, type = "response"),
+  type = "l", lwd = 2, col = "steelblue",
+  ylim = c(0, 1),
+  xlab = plot_predictor,
+  ylab = "Predicted probability",
+  main = "Other predictors held at zero"
+)
+
+abline(h = threshold, lty = 2, col = "red")
+```
+
+**Plot Probabilities by Actual Outcome**
+```{r}
+#| fig-width: 7
+#| fig-height: 4
+
+boxplot(
+  probabilities ~ factor(test$y, levels = 0:1),
+  names = c("Actual y = 0", "Actual y = 1"),
+  col = c("lightblue", "lightgreen"),
+  ylim = c(0, 1),
+  xlab = "",
+  ylab = "Predicted probability",
+  main = "Test-set predictions"
+)
+
+abline(h = threshold, lty = 2, col = "red")
+```
